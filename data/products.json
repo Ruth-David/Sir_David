@@ -1,0 +1,584 @@
+{
+  "currency": "KES",
+  "items": [
+    {
+      "section": "mens-suits",
+      "title": "Emerald Velvet Tuxedo",
+      "priceLabel": "KSH 8,500",
+      "priceValue": 8500,
+      "image": "https://i.postimg.cc/gkfs1qv0/image20.jpg",
+      "description": "Classic navy two-piece with notch lapel"
+    },
+    {
+      "section": "mens-suits",
+      "title": "Ivory Minimalist Kaftan",
+      "priceLabel": "KSH 8,500",
+      "priceValue": 8500,
+      "image": "https://i.postimg.cc/yx45jXQ2/image1.jpg",
+      "description": "Charcoal slim-fit with modern silhouette"
+    },
+    {
+      "section": "mens-suits",
+      "title": "Royal Navy Pinstripe Kaftan",
+      "priceLabel": "KSH 7,000",
+      "priceValue": 7000,
+      "image": "https://i.postimg.cc/qRCS2ZL8/image4.jpg",
+      "description": "Tux-inspired midnight blue with contrast lapel"
+    },
+    {
+      "section": "mens-suits",
+      "title": "Crimson Regal Tuxedo",
+      "priceLabel": "KSH 6,000",
+      "priceValue": 6000,
+      "image": "https://i.postimg.cc/rwnP3LZ1/image7.jpg",
+      "description": "Ivory dinner jacket with black trousers"
+    },
+    {
+      "section": "mens-suits",
+      "title": "White Elegance Groom Suit",
+      "priceLabel": "KSH 8,500",
+      "priceValue": 8500,
+      "image": "https://i.postimg.cc/R02bCLBq/image9.jpg",
+      "description": "Textured grey with crisp finishing"
+    },
+    {
+      "section": "mens-suits",
+      "title": "Executive Blue Suit",
+      "priceLabel": "KSH 8,500",
+      "priceValue": 8500,
+      "image": "https://i.postimg.cc/SRRVbgTn/image13.jpg",
+      "description": "Classic black two-piece business fit"
+    },
+    {
+      "section": "mens-suits",
+      "title": "Sandy Charm Wedding Suit",
+      "priceLabel": "KSH 9,000",
+      "priceValue": 9000,
+      "image": "https://i.postimg.cc/MKctsrf4/image16.jpg",
+      "description": "Royal blue three-piece with waistcoat"
+    },
+    {
+      "section": "mens-suits",
+      "title": "Striped Royalty Double-Breast Suit",
+      "priceLabel": "KSH 8,500",
+      "priceValue": 8500,
+      "image": "https://i.postimg.cc/SN1dNKyP/image27.jpg",
+      "description": "Subtle check pattern in mid-grey"
+    },
+    {
+      "section": "mens-suits",
+      "title": "Emerald Statement Suit",
+      "priceLabel": "KSH 9,000",
+      "priceValue": 9000,
+      "image": "https://i.postimg.cc/sgBcBRxg/image31.jpg",
+      "description": "Bold emerald with clean lines"
+    },
+    {
+      "section": "mens-suits",
+      "title": "Crimson Dapper Suit",
+      "priceLabel": "KSH 8,500",
+      "priceValue": 8500,
+      "image": "https://i.postimg.cc/Jz9QZdHc/image32.jpg",
+      "description": "Steel blue tailored fit for everyday wear"
+    },
+    {
+      "section": "mens-suits",
+      "title": "Royal Blue Authority Suit",
+      "priceLabel": "KSH 8,500",
+      "priceValue": 8500,
+      "image": "https://i.postimg.cc/PqYQ4zmG/image33.jpg",
+      "description": "Warm camel tone with notch lapel"
+    },
+    {
+      "section": "mens-suits",
+      "title": "Silver Stripe Gentleman Suit",
+      "priceLabel": "KSH 8,500",
+      "priceValue": 8500,
+      "image": "https://i.postimg.cc/bJPHFDTZ/image34.jpg",
+      "description": "Graphite classic fit for business"
+    },
+    {
+      "section": "mens-suits",
+      "title": "Emerald Prestige Suit",
+      "priceLabel": "KSH 5,500",
+      "priceValue": 5500,
+      "image": "https://i.postimg.cc/FRxgtrWD/image35.jpg",
+      "description": "Deep blue wedding-ready style"
+    },
+
+    {
+      "section": "womens-suits",
+      "title": "Sky Power Suit",
+      "priceLabel": "KSH 7,000",
+      "priceValue": 7000,
+      "image": "https://i.postimg.cc/8cmyH8rr/image12.jpg",
+      "description": "Chic ivory tailored two-piece"
+    },
+    {
+      "section": "womens-suits",
+      "title": "Emerald Suit",
+      "priceLabel": "KSH 9,000",
+      "priceValue": 9000,
+      "image": "https://i.postimg.cc/9XvBKQBt/image53.jpg",
+      "description": "Royal blue with sharp lines"
+    },
+    {
+      "section": "womens-suits",
+      "title": "Wine Authority Suit",
+      "priceLabel": "KSH 7,500",
+      "priceValue": 7500,
+      "image": "https://i.postimg.cc/9Q04Pv4R/image37.jpg",
+      "description": "Soft blush pink with feminine fit"
+    },
+    {
+      "section": "womens-suits",
+      "title": "Desert Chic Suit",
+      "priceLabel": "KSH 7,000",
+      "priceValue": 7000,
+      "image": "https://i.postimg.cc/rmdtzTMN/image14.jpg",
+      "description": "Eye-catching scarlet evening style"
+    },
+    {
+      "section": "womens-suits",
+      "title": "Ivory Boss Suit",
+      "priceLabel": "KSH 7,500",
+      "priceValue": 7500,
+      "image": "https://i.postimg.cc/kGK6FyVV/image29.jpg",
+      "description": "Warm beige set for daily elegance"
+    },
+    {
+      "section": "womens-suits",
+      "title": "Powder Brown Confidence Suit",
+      "priceLabel": "KSH 9,000",
+      "priceValue": 9000,
+      "image": "https://i.postimg.cc/fL6S9Pbn/image30.jpg",
+      "description": "Teal blazer and trouser combo"
+    },
+    {
+      "section": "womens-suits",
+      "title": "Mint Butterfly Set",
+      "priceLabel": "KSH 7,000",
+      "priceValue": 7000,
+      "image": "https://i.postimg.cc/SQMMhmZy/image46.jpg",
+      "description": "Classic black tailored for work"
+    },
+    {
+      "section": "womens-suits",
+      "title": "Purple Executive Suit",
+      "priceLabel": "KSH 7,500",
+      "priceValue": 7500,
+      "image": "https://i.postimg.cc/xCtnrJWs/image28.jpg",
+      "description": "Soft lilac tone with sleek fit"
+    },
+
+    {
+      "section": "bridal",
+      "title": "Emerald Elegance Bridal ",
+      "priceLabel": "From KSH 7,000",
+      "priceValue": 180000,
+      "image": "https://i.postimg.cc/DZ5YfqfX/image23.jpg",
+      "description": "Classic silhouette with elegant train"
+    },
+    {
+      "section": "bridal",
+      "title": "Sunset Charm Set",
+      "priceLabel": "From KSH 5,000",
+      "priceValue": 5000,
+      "image": "https://i.postimg.cc/qRp5dmrr/image25.jpg",
+      "description": "Figure-hugging mermaid style with flare"
+    },
+    {
+      "section": "bridal",
+      "title": "Golden Glow Bridesmaid Dresses",
+      "priceLabel": "From KSH 8,000",
+      "priceValue": 5000,
+      "image": "https://i.postimg.cc/R07D8kjG/image26.jpg",
+      "description": "Romantic lace detailing all over"
+    },
+    {
+      "section": "bridal",
+      "title": "Forest Grace Duo",
+      "priceLabel": "From KSH 9,000",
+      "priceValue": 9000,
+      "image": "https://i.postimg.cc/NFMCK5LP/image47.jpg",
+      "description": "Full ball gown with dramatic skirt"
+    },
+    {
+      "section": "bridal",
+      "title": "Royal Green Harmony",
+      "priceLabel": "From KSH 7,000",
+      "priceValue": 7000,
+      "image": "https://i.postimg.cc/XYyhKGLR/image5.jpg",
+      "description": "Graceful off-shoulder bridal look"
+    },
+    {
+      "section": "bridal",
+      "title": "Classic Beige Groomsmen Set",
+      "priceLabel": "From KSH 8,000",
+      "priceValue": 7000,
+      "image": "https://i.postimg.cc/Pqs7SXFP/image8.jpg",
+      "description": "Minimal sheath silhouette for clean lines"
+    },
+    {
+  "section": "bridal",
+  "title": "Royal Navy Groom Three-Piece",
+  "priceLabel": "From KSH 9,000",
+  "priceValue": 9000,
+  "image": "https://i.postimg.cc/5yGnV4xT/image72.jpg",
+  "description": "Tailored navy three-piece groom suit with waistcoat—sharp, modern wedding look."
+},
+{
+  "section": "bridal",
+  "title": "Navy Groomsmen Set with Emerald Waistcoats",
+  "priceLabel": "From KSH 7,500",
+  "priceValue": 7500,
+  "image": "https://i.postimg.cc/tgZ6K31q/image22.jpg",
+  "description": "Coordinated groomsmen in navy suits with emerald waistcoats and gold lapel chains."
+},
+{
+  "section": "bridal",
+  "title": "Minimalist White Groom Kaftan",
+  "priceLabel": "From KSH 7,500",
+  "priceValue": 7500,
+  "image": "https://i.postimg.cc/8PLN0jk2/image106.jpg",
+  "description": "Clean white kaftan set with subtle piping detail—perfect for modern grooms."
+},
+    {
+      "section": "african",
+      "title": "Ankara Grey Set",
+      "priceLabel": "KSH 5,000",
+      "priceValue": 5000,
+      "image": "https://i.postimg.cc/0Nh7YjtB/image11.jpg",
+      "description": "Grey set with subtle Ankara detail"
+    },
+    {
+      "section": "african",
+      "title": "Emerald Grace Beaded Gown",
+      "priceLabel": "KSH 9,500",
+      "priceValue": 9500,
+      "image": "https://i.postimg.cc/7hk7Rcr1/image17.jpg",
+      "description": "Blue patterned suit with modern cut"
+    },
+    {
+      "section": "african",
+      "title": "Vibrant Print Set",
+      "priceLabel": "KSH 6,000",
+      "priceValue": 6000,
+      "image": "https://i.postimg.cc/MTRVdwNK/image2.jpg",
+      "description": "Traditional print with formal finish"
+    },
+    {
+      "section": "african",
+      "title": "Elegant Green Dress",
+      "priceLabel": "KSH 5,000",
+      "priceValue": 5000,
+      "image": "https://i.postimg.cc/tJNPG59K/image24.jpg",
+      "description": "Elegant green dress with print panel"
+    },
+    {
+      "section": "african",
+      "title": "Classic Kitenge Set",
+      "priceLabel": "KSH 9,500",
+      "priceValue": 9500,
+      "image": "https://i.postimg.cc/DzSq4LcG/image3.jpg",
+      "description": "Classic kitenge with contrast details"
+    },
+    {
+      "section": "african",
+      "title": "Crimson Majesty Gown",
+      "priceLabel": "KSH 9,500",
+      "priceValue": 9500,
+      "image": "https://i.postimg.cc/G3FvDcvX/image43.jpg",
+      "description": "Dashiki-inspired blue formal look"
+    },
+    {
+      "section": "african",
+      "title": "Midnight Cape Elegance",
+      "priceLabel": "KSH 10,000",
+      "priceValue": 10000,
+      "image": "https://i.postimg.cc/5NfLqZ3b/image44.jpg",
+      "description": "Gold pattern with formal finish"
+    },
+    {
+      "section": "african",
+      "title": "Sisterhood Ankara Set",
+      "priceLabel": "KSH 5,000",
+      "priceValue": 5000,
+      "image": "https://i.postimg.cc/65zRHYjR/image55.jpg",
+      "description": "Bold Ankara print formal dress"
+    },
+    {
+      "section": "african",
+      "title": "Royal Heritage Ankara Gown",
+      "priceLabel": "KSH 5,000",
+      "priceValue": 5000,
+      "image": "https://i.postimg.cc/bwJn4kW5/image56.jpg",
+      "description": "Color-block print with waist detail"
+    },
+    {
+      "section": "african",
+      "title": "Vibrant Bloom One-Shoulder Dress",
+      "priceLabel": "KSH 5,000",
+      "priceValue": 5000,
+      "image": "https://i.postimg.cc/0yBSvrqy/image57.jpg",
+      "description": "Flowing gown with Ankara accents"
+    },
+    {
+      "section": "african",
+      "title": "Floral Radiance Mini Dress",
+      "priceLabel": "KSH 5,000",
+      "priceValue": 5000,
+      "image": "https://i.postimg.cc/hjF7JwvF/image58.jpg",
+      "description": "Crimson print with fitted bodice"
+    },
+    {
+      "section": "african",
+      "title": "Mother & Daughter Unity Set",
+      "priceLabel": "KSH 5,000",
+      "priceValue": 5000,
+      "image": "https://i.postimg.cc/xdNz1Y0y/image59.jpg",
+      "description": "Sapphire tones with structured fit"
+    },
+    {
+      "section": "african",
+      "title": "Warrior Stripes Agbada",
+      "priceLabel": "KSH 5,000",
+      "priceValue": 5000,
+      "image": "https://i.postimg.cc/prHGBq04/image60.jpg",
+      "description": "Gold leaf print with elegant drape"
+    },
+    {
+      "section": "african",
+      "title": "Midnight Prestige Agbada",
+      "priceLabel": "KSH 5,000",
+      "priceValue": 5000,
+      "image": "https://i.postimg.cc/3wzbkK2K/image61.jpg",
+      "description": "Cobalt blue with bold Ankara pattern"
+    },
+    {
+      "section": "african",
+      "title": "Geometric Royalty Men’s Set",
+      "priceLabel": "KSH 5,000",
+      "priceValue": 5000,
+      "image": "https://i.postimg.cc/MGnFZcMP/image62.jpg",
+      "description": "Emerald wax print with waist tie"
+    },
+    {
+      "section": "african",
+      "title": "Ruby Floral Print",
+      "priceLabel": "KSH 5,000",
+      "priceValue": 5000,
+      "image": "https://i.postimg.cc/k48Y8kyW/image63.jpg",
+      "description": "Ruby floral pattern evening dress"
+    },
+    {
+      "section": "african",
+      "title": "Wine Harmony Couple Set",
+      "priceLabel": "KSH 5,000",
+      "priceValue": 5000,
+      "image": "https://i.postimg.cc/VvW7Znp6/image64.jpg",
+      "description": "Sunset ombre pattern with flair"
+    },
+    {
+      "section": "african",
+      "title": "Sage Ankara Set",
+      "priceLabel": "KSH 9,500",
+      "priceValue": 9500,
+      "image": "https://i.postimg.cc/DfrYz30T/image65.jpg",
+      "description": "Sage green ankara two-piece set"
+    },
+    {
+      "section": "african",
+      "title": "Crimson Bloom Couple Set",
+      "priceLabel": "KSH 5,000",
+      "priceValue": 5000,
+      "image": "https://i.postimg.cc/L6mQYQgZ/image66.jpg",
+      "description": "Royal blue with rich Ankara print"
+    },
+    {
+      "section": "african",
+      "title": "Royal Union Ankara Set",
+      "priceLabel": "KSH 5,000",
+      "priceValue": 5000,
+      "image": "https://i.postimg.cc/xTgxKGLp/image67.jpg",
+      "description": "Scarlet kitenge with elegant drape"
+    },
+    {
+      "section": "african",
+      "title": "Geometric Royalty Men’s Set",
+      "priceLabel": "KSH 5,000",
+      "priceValue": 5000,
+      "image": "https://i.postimg.cc/MGnFZcMP/image62.jpg",
+      "description": "Emerald wax print with waist tie"
+    },
+  {
+    "section": "ties",
+    "title": "Classic Red Tie Set",
+    "priceLabel": "KSH 1,200",
+    "priceValue": 1200,
+    "image": "https://i.postimg.cc/X7TvBfZy/image77.jpg",
+    "description": "Elegant set of ties in maroon, bright red, and deep red tones — perfect for formal and business wear"
+  },
+  {
+    "section": "ties",
+    "title": "Bright Orange Tie",
+    "priceLabel": "KSH 800",
+    "priceValue": 800,
+    "image": "https://i.postimg.cc/JzNRy9V9/image75.jpg",
+    "description": "Vibrant orange tie designed for standout looks, ideal for weddings, parties, and modern office wear"
+  },
+  {
+    "section": "ties",
+    "title": "Magenta Tie & Bow Tie Set",
+    "priceLabel": "KSH 1,500",
+    "priceValue": 1500,
+    "image": "https://i.postimg.cc/9fS2sVGw/image76.jpg",
+    "description": "Elegant set featuring a magenta necktie and matching bow tie, perfect for weddings, parties, and formal events"
+  },
+  {
+    "section": "ties",
+    "title": "Gold & Silver Collar Tip Set",
+    "priceLabel": "KSH 700",
+    "priceValue": 700,
+    "image": "https://i.postimg.cc/zfLZCM9z/image110.jpg",
+    "description": "Stylish pair of metallic collar tips available in gold and silver, perfect for adding a touch of elegance to formal shirts"
+  },
+  {
+    "section": "ties",
+    "title": "Royal Purple Tie Set (4-Piece)",
+    "priceLabel": "KSH 2,000",
+    "priceValue": 2000,
+    "image": "https://i.postimg.cc/C1QRvWKc/image117.jpg",
+    "description": "Complete set including necktie, bow tie, pocket square, and lapel pin in a bold royal purple tone, perfect for weddings and formal events"
+  },
+  {
+    "section": "ties",
+    "title": "Crimson Red Tie Set (3-Piece)",
+    "priceLabel": "KSH 1,800",
+    "priceValue": 1800,
+    "image": "https://i.postimg.cc/FH6sXjvK/image116.jpg",
+    "description": "Elegant 3-piece set featuring a crimson red necktie, matching pocket square, and rose lapel pin with gold chain detail"
+  },
+  {
+    "section": "ties",
+    "title": "Royal Blue Tie Set (3-Piece)",
+    "priceLabel": "KSH 1,800",
+    "priceValue": 1800,
+    "image": "https://i.postimg.cc/DzQDPTxK/image118.jpg",
+    "description": "Stylish 3-piece set including a royal blue necktie, matching bow tie, and pocket square — perfect for weddings, corporate, or evening wear"
+  },
+  {
+    "section": "ties",
+    "title": "Golden Eagle Lapel Pin with Blue Gem",
+    "priceLabel": "KSH 1,200",
+    "priceValue": 1200,
+    "image": "https://i.postimg.cc/rwk70s99/image90.jpg",
+    "description": "Elegant gold eagle lapel pin with blue gemstone centerpiece, double chain, and crystal stud for a royal statement look"
+  },
+  {
+    "section": "ties",
+    "title": "Golden Eagle Lapel Pin with Black Gem",
+    "priceLabel": "KSH 1,200",
+    "priceValue": 1200,
+    "image": "https://i.postimg.cc/jqn1MPgX/image94.jpg",
+    "description": "Luxury lapel pin featuring a golden eagle with black gemstone centerpiece, double chain design, and crystal stud accent"
+  },
+  {
+  "section": "materials",
+  "title": "Assorted Solid Color Fabrics",
+  "priceLabel": "KSH 900",
+  "priceValue": 900,
+  "image": "https://i.postimg.cc/3JQMgkxq/image70.jpg",
+  "description": "Wide range of plain-colored fabrics ideal for tailoring and custom outfits"
+},
+  {
+    "section": "materials",
+    "title": "Striped Earth Tone Vitenge Fabric",
+    "priceLabel": "KSH 1,500",
+    "priceValue": 1500,
+    "image": "https://i.postimg.cc/9MNhfdSr/image69-jpeg.jpg",
+    "description": "Earth tone fabric with elegant brown, blue, and cream wave patterns"
+  },
+  {
+    "section": "materials",
+    "title": "Geometric Blue Vitenge Fabric",
+    "priceLabel": "KSH 1,500",
+    "priceValue": 1500,
+    "image": "https://i.postimg.cc/63z7Ckdj/image78.jpg",
+    "description": "Stylish vitenge fabric with a bold blue geometric square design"
+  },
+  {
+    "section": "materials",
+    "title": "Floral Teal Vitenge Fabric",
+    "priceLabel": "KSH 1,600",
+    "priceValue": 1600,
+    "image": "https://i.postimg.cc/76THZjKJ/image85.jpg",
+    "description": "Green and yellow floral vitenge pattern on a teal background"
+  },
+  {
+    "section": "materials",
+    "title": "Abstract Pink Splash Fabric",
+    "priceLabel": "KSH 1,700",
+    "priceValue": 1700,
+    "image": "https://i.postimg.cc/RVGB4Mvb/image80.jpg",
+    "description": "Bold abstract fabric with pink, red, and multicolor brush patterns"
+  },
+  {
+    "section": "materials",
+    "title": "Blue Vine Pattern Vitenge Fabric",
+    "priceLabel": "KSH 1,600",
+    "priceValue": 1600,
+    "image": "https://i.postimg.cc/tCBL82zK/image88.jpg",
+    "description": "Rich blue vitenge fabric with fine black vine-like designs"
+  },
+  {
+    "section": "materials",
+    "title": "Abstract Blue-Purple Vitenge Fabric",
+    "priceLabel": "KSH 1,800",
+    "priceValue": 1800,
+    "image": "https://i.postimg.cc/PxM6Y53g/image82.jpg",
+    "description": "Modern abstract vitenge with bold blue, purple, and green strokes"
+  },
+  {
+    "section": "materials",
+    "title": "Botanical Green Vitenge Fabric",
+    "priceLabel": "KSH 1,600",
+    "priceValue": 1600,
+    "image": "https://i.postimg.cc/hj48FbsY/image89.jpg",
+    "description": "Elegant vitenge fabric featuring vibrant turquoise and green botanical patterns on a dark base"
+  },
+  {
+    "section": "materials",
+    "title": "Multicolor Leaf Vitenge Fabric",
+    "priceLabel": "KSH 1,800",
+    "priceValue": 1800,
+    "image": "https://i.postimg.cc/zvsRfnw8/image87.jpg",
+    "description": "Vibrant vitenge fabric with a multicolor background and striking white leaf patterns"
+  },
+  {
+  "section": "materials",
+  "title": "Vibrant Mosaic Patchwork Wax",
+  "priceLabel": "From KSH 1,000",
+  "priceValue": 1000,
+  "image": "https://i.postimg.cc/WbNXQyss/image79.jpg",
+  "description": "Multicolor geometric patchwork Ankara/wax print—bright blues, magenta, orange, yellow and green."
+},
+{
+  "section": "materials",
+  "title": "Abstract Electric Brush Strokes Wax",
+  "priceLabel": "From KSH 1,000",
+  "priceValue": 1000,
+  "image": "https://i.postimg.cc/PxM6Y53g/image82.jpg",
+  "description": "Vivid abstract wax print with layered brush strokes in cobalt, fuchsia, lime and black."
+},
+{
+  "section": "materials",
+  "title": "Tri-Geo Mosaic Wax",
+  "priceLabel": "From KSH 1,000",
+  "priceValue": 1000,
+  "image": "https://i.postimg.cc/wTnRhtfn/image81.jpg",
+  "description": "Vibrant geometric triangles in green, red, yellow, black and white with spiral and dot motifs."
+}
+
+  ]
+}

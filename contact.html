@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - Sir David Bespoke | Book Appointment & Get In Touch</title>
+    <meta name="description" content="Contact Sir David Bespoke for appointments, consultations, or inquiries. Located at Garden Chambers, Nairobi Kenya. Call 0712132268 or book online.">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <a href="index.html">Sir David Bespoke</a>
+            </div>
+            <nav class="nav">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
+                    <li class="nav-item dropdown">
+                        <a href="about.html" class="nav-link">About <i class="fas fa-chevron-down"></i></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="about.html#story">Our Story</a></li>
+                            <li><a href="about.html#mission">Mission & Values</a></li>
+                            <li><a href="about.html#team">Meet the Team</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a href="services.html" class="nav-link">Services <i class="fas fa-chevron-down"></i></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="services.html#mens-suits">Men's Suits</a></li>
+                            <li><a href="services.html#womens-suits">Women's Suits</a></li>
+                            <li><a href="services.html#bridal">Bridal Collections</a></li>
+                            <li><a href="services.html#african">African Attire</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a href="contact.html" class="nav-link active">Contact</a></li>
+                    <li class="nav-item"><a href="faq.html" class="nav-link">FAQ</a></li>
+                </ul>
+            </nav>
+            <div class="search-container">
+                <input type="search" class="search-input" placeholder="Search..." aria-label="Search">
+                <button class="search-btn" aria-label="Search"><i class="fas fa-search"></i></button>
+            </div>
+            <button class="mobile-menu-btn" aria-label="Toggle navigation">
+                <span></span><span></span><span></span>
+            </button>
+        </div>
+    </header>
+
+    <!-- Breadcrumb -->
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+        <div class="container">
+            <ol class="breadcrumb-list">
+                <li><a href="index.html">Home</a></li>
+                <li>Contact</li>
+            </ol>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+        <!-- Page Header -->
+        <section class="page-header">
+            <div class="container">
+                <h1>Contact Sir David Bespoke</h1>
+                <p>Get in touch for consultations, appointments, or inquiries</p>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section class="contact-section">
+            <div class="container">
+                <div class="contact-content">
+                    <!-- Contact Information -->
+                    <div class="contact-info-section">
+                        <h2>Get In Touch</h2>
+                        <p>We're here to help you create something extraordinary. Contact us today to schedule your consultation.</p>
+                        
+                        <div class="contact-methods">
+                            <div class="contact-method">
+                                <div class="contact-icon"><i class="fas fa-map-marker-alt"></i></div>
+                                <div class="contact-details">
+                                    <h3>Visit Our Studio</h3>
+                                    <p>Garden Chambers<br>Opposite Jeevanjee<br>Nairobi, Kenya</p>
+                                    <a href="https://maps.google.com/?q=Garden+Chambers+Nairobi" target="_blank" class="link-btn">Get Directions</a>
+                                </div>
+                            </div>
+
+                            <div class="contact-method">
+                                <div class="contact-icon"><i class="fas fa-phone"></i></div>
+                                <div class="contact-details">
+                                    <h3>Call Us</h3>
+                                    <p><a href="tel:+254712132268">0712132268</a></p>
+                                    <p class="contact-note">Mon-Sat: 9:00 AM - 6:00 PM</p>
+                                </div>
+                            </div>
+
+                            <div class="contact-method">
+                                <div class="contact-icon"><i class="fab fa-whatsapp"></i></div>
+                                <div class="contact-details">
+                                    <h3>WhatsApp</h3>
+                                    <p><a href="https://wa.me/254712132268">Message Us</a></p>
+                                    <p class="contact-note">Quick responses guaranteed</p>
+                                </div>
+                            </div>
+
+                            <div class="contact-method">
+                                <div class="contact-icon"><i class="fas fa-clock"></i></div>
+                                <div class="contact-details">
+                                    <h3>Business Hours</h3>
+                                    <p>Monday - Friday: 9:00 AM - 6:00 PM<br>
+                                    Saturday: 10:00 AM - 4:00 PM<br>
+                                    Sunday: By Appointment Only</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Contact Form -->
+                    <div class="contact-form-section">
+                        <h2>Send us a Message</h2>
+                        <form class="contact-form" id="contactForm">
+                            <div class="form-group">
+                                <label for="fullName">Full Name *</label>
+                                <input type="text" id="fullName" name="fullName" required aria-describedby="fullName-error">
+                                <span class="error-message" id="fullName-error"></span>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="email">Email Address *</label>
+                                    <input type="email" id="email" name="email" required aria-describedby="email-error">
+                                    <span class="error-message" id="email-error"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label for="phone">Phone Number *</label>
+                                    <input type="tel" id="phone" name="phone" required aria-describedby="phone-error">
+                                    <span class="error-message" id="phone-error"></span>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="service">Service Interest</label>
+                                <select id="service" name="service">
+                                    <option value="">Select a service</option>
+                                    <option value="mens-suits">Men's Bespoke Suits</option>
+                                    <option value="womens-suits">Women's Bespoke Suits</option>
+                                    <option value="bridal">Bridal Collections</option>
+                                    <option value="african">African Attire</option>
+                                    <option value="consultation">General Consultation</option>
+                                    <option value="other">Other</option>
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="message">Message *</label>
+                                <textarea id="message" name="message" rows="5" required aria-describedby="message-error" placeholder="Tell us about your project, preferred dates, or any specific requirements..."></textarea>
+                                <span class="error-message" id="message-error"></span>
+                            </div>
+
+                            <div class="form-group checkbox-group">
+                                <label class="checkbox-label">
+                                    <input type="checkbox" id="newsletter" name="newsletter">
+                                    <span class="checkmark"></span>
+                                    Subscribe to our newsletter for fashion tips and updates
+                                </label>
+                            </div>
+
+                            <div class="cta-buttons">
+                                <button type="submit" class="cta-btn primary">Send Message</button>
+                                <!-- NEW: Direct WhatsApp button -->
+                                <button type="button" class="cta-btn secondary" id="waDirectContactBtn">
+                                    Message on WhatsApp
+                                </button>
+                            </div>
+                        </form>
+
+                        <div class="form-success" id="formSuccess" style="display: none;">
+                            <i class="fas fa-check-circle"></i>
+                            <h3>Message Sent Successfully!</h3>
+                            <p>Thank you for contacting us. We'll get back to you within 24 hours. A WhatsApp notification has also been sent to Sir David.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Appointment Booking -->
+        <section id="booking" class="booking-section">
+            <div class="container">
+                <div class="section-header">
+                    <h2>Book Your Consultation</h2>
+                    <p>Schedule a personal consultation with our design team</p>
+                </div>
+
+                <div class="booking-content">
+                    <div class="booking-info">
+                        <h3>What to Expect</h3>
+                        <ul class="booking-features">
+                            <li><i class="fas fa-check"></i> Personal style consultation (60 minutes)</li>
+                            <li><i class="fas fa-check"></i> Fabric and design selection</li>
+                            <li><i class="fas fa-check"></i> Professional measurements</li>
+                            <li><i class="fas fa-check"></i> Project timeline discussion</li>
+                            <li><i class="fas fa-check"></i> Pricing and payment options</li>
+                        </ul>
+                        <div class="booking-note">
+                            <p><strong>Note:</strong> Initial consultations are complimentary for all bespoke services. Please allow 60-90 minutes for your first visit.</p>
+                        </div>
+                    </div>
+
+                    <div class="booking-form">
+                        <form class="appointment-form" id="appointmentForm">
+                            <h3>Schedule Your Appointment</h3>
+                            
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="appointmentName">Full Name *</label>
+                                    <input type="text" id="appointmentName" name="appointmentName" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="appointmentPhone">Phone Number *</label>
+                                    <input type="tel" id="appointmentPhone" name="appointmentPhone" required>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="appointmentEmail">Email Address *</label>
+                                <input type="email" id="appointmentEmail" name="appointmentEmail" required>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="appointmentDate">Preferred Date *</label>
+                                    <input type="date" id="appointmentDate" name="appointmentDate" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="appointmentTime">Preferred Time *</label>
+                                    <select id="appointmentTime" name="appointmentTime" required>
+                                        <option value="">Select time</option>
+                                        <option value="09:00">9:00 AM</option>
+                                        <option value="10:00">10:00 AM</option>
+                                        <option value="11:00">11:00 AM</option>
+                                        <option value="12:00">12:00 PM</option>
+                                        <option value="13:00">1:00 PM</option>
+                                        <option value="14:00">2:00 PM</option>
+                                        <option value="15:00">3:00 PM</option>
+                                        <option value="16:00">4:00 PM</option>
+                                        <option value="17:00">5:00 PM</option>
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="appointmentService">Service Type *</label>
+                                <select id="appointmentService" name="appointmentService" required>
+                                    <option value="">Select service</option>
+                                    <option value="mens-suits">Men's Bespoke Suits</option>
+                                    <option value="womens-suits">Women's Bespoke Suits</option>
+                                    <option value="bridal">Bridal Consultation</option>
+                                    <option value="african">African Attire</option>
+                                    <option value="general">General Consultation</option>
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="appointmentNotes">Special Requests or Notes</label>
+                                <textarea id="appointmentNotes" name="appointmentNotes" rows="3" placeholder="Any specific requirements, occasions, or questions..."></textarea>
+                            </div>
+
+                            <div class="cta-buttons">
+                                <button type="submit" class="cta-btn primary">Book Appointment</button>
+                                <!-- NEW: Direct WhatsApp button -->
+                                <button type="button" class="cta-btn secondary" id="waDirectAppointmentBtn">
+                                    Message on WhatsApp
+                                </button>
+                            </div>
+                        </form>
+
+                        <div class="appointment-success" id="appointmentSuccess" style="display: none;">
+                            <i class="fas fa-calendar-check"></i>
+                            <h3>Appointment Requested!</h3>
+                            <p>We'll confirm your appointment within 2 hours and send you a confirmation message. A WhatsApp notification has also been sent to Sir David.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Map Section -->
+        <section class="map-section">
+            <div class="container">
+                <h2>Find Us</h2>
+                <div class="map-container">
+                    <div class="map-placeholder">
+                        <iframe 
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.819592839539!2d36.82194341532239!3d-1.2840746991555825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f10d65745c8c7%3A0x99b4ce04df3dcc4a!2sJeevanjee%20Gardens!5e0!3m2!1sen!2ske!4v1624889234567!5m2!1sen!2ske"
+                            width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade"
+                            title="Sir David Couture Location - Garden Chambers, Opposite Jeevanjee, Nairobi"></iframe>
+                    </div>
+                    <div class="map-info">
+                        <h3>Visit Our Studio</h3>
+                        <div class="location-details">
+                            <p><strong>Address:</strong><br>Garden Chambers<br>Opposite Jeevanjee Gardens<br>Nairobi, Kenya</p>
+                            <p><strong>Parking:</strong> Available on-site</p>
+                            <p><strong>Public Transport:</strong> Accessible via matatu routes to CBD</p>
+                            <p><strong>Landmarks:</strong> Near Jeevanjee Gardens and City Market</p>
+                        </div>
+                        <a href="https://wa.me/254712132268?text=Hi, I need directions to Sir David Couture" class="link-btn">WhatsApp for Directions</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Sir David Bespoke</h3>
+                    <p>Premier fashion house specializing in bespoke suits, bridal collections, and African attire.</p>
+                    <div class="social-links">
+                        <a href="#" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
+                        <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                        <a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+                        <a href="#" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4>Services</h4>
+                    <ul>
+                        <li><a href="services.html#mens-suits">Men's Suits</a></li>
+                        <li><a href="services.html#womens-suits">Women's Suits</a></li>
+                        <li><a href="services.html#bridal">Bridal Collections</a></li>
+                        <li><a href="services.html#african">African Attire</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Company</h4>
+                    <ul>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="faq.html">FAQ</a></li>
+                        <li><a href="#">Privacy Policy</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Contact Info</h4>
+                    <div class="contact-info">
+                        <p><i class="fas fa-map-marker-alt"></i> Garden Chambers, Opposite Jeevanjee, Nairobi Kenya</p>
+                        <p><i class="fas fa-phone"></i> <a href="tel:+254712132268">0712132268</a></p>
+                        <p><i class="fab fa-whatsapp"></i> <a href="https://wa.me/254712132268">WhatsApp</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Sir David Bespoke. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Your site-wide JS -->
+    <script src="script.js"></script>
+
+    <!-- Inline helper for the new WhatsApp buttons -->
+    <script>
+      (function(){
+        // Business WhatsApp number in international format without '+'
+        const WA_NUMBER = '254725991286';
+
+        function openWA(text) {
+          const url = 'https://wa.me/' + WA_NUMBER + '?text=' + encodeURIComponent(text);
+          window.open(url, '_blank');
+        }
+
+        // Contact form direct WhatsApp
+        const waContactBtn = document.getElementById('waDirectContactBtn');
+        if (waContactBtn) {
+          waContactBtn.addEventListener('click', function () {
+            const name = document.getElementById('fullName')?.value || '';
+            const phone = document.getElementById('phone')?.value || '';
+            const email = document.getElementById('email')?.value || '';
+            const service = document.getElementById('service')?.value || 'Not specified';
+            const message = document.getElementById('message')?.value || '';
+
+            const text =
+`Hello Sir David,
+
+I'd like to get in touch.
+
+Name: ${name}
+Phone: ${phone}
+Email: ${email}
+Service: ${service}
+Message: ${message}
+
+(Sent from the website Contact form)`;
+
+            openWA(text);
+          });
+        }
+
+        // Appointment form direct WhatsApp
+        const waApptBtn = document.getElementById('waDirectAppointmentBtn');
+        if (waApptBtn) {
+          waApptBtn.addEventListener('click', function () {
+            const name = document.getElementById('appointmentName')?.value || '';
+            const phone = document.getElementById('appointmentPhone')?.value || '';
+            const email = document.getElementById('appointmentEmail')?.value || '';
+            const date = document.getElementById('appointmentDate')?.value || '';
+            const time = document.getElementById('appointmentTime')?.value || '';
+            const service = document.getElementById('appointmentService')?.value || 'Not specified';
+            const notes = document.getElementById('appointmentNotes')?.value || '';
+
+            const text =
+`Hello Sir David,
+
+I'd like to book an appointment.
+
+Name: ${name}
+Phone: ${phone}
+Email: ${email}
+Preferred Date: ${date}
+Preferred Time: ${time}
+Service: ${service}
+Notes: ${notes}
+
+(Sent from the website Booking form)`;
+
+            openWA(text);
+          });
+        }
+      })();
+    </script>
+</body>
+</html>
